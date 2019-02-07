@@ -1,5 +1,5 @@
-#Arduino
-Arduino es una plataforma basada en una placa con entradas y salidas, la cual está basada en el lenguaje de programación de Processing y en microcontroladores. 
+# Arduino
+Arduino es una plataforma basada en una placa con entradas y salidas, basada en el lenguaje de programación de Processing y en microcontroladores. 
 Esta placa está formada por distintas partes tales como las entradas, las salidas, la alimentación, etc. 
 Las entradas las podemos utilizar para hacer lecturas y las podemos identificar en la placa cómo los pines digitales del 0 al 13 y los analógicos del A0 al A5
 Las salidas se utilizan para el envío de señales y son los digitales del 0 al 13
